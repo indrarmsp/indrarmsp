@@ -1,7 +1,7 @@
 # Hi there, I'm Indra Ramdani Saputra
 
-### Informatics Student & Aspiring Full-Stack Developer
-I am currently on a journey to master web development through **freeCodeCamp** and my university studies. I believe in "learning in public" and documenting my progress one commit at a time.
+### Informatics Student a Full-Stack Wannabe
+I am currently learning web development through **freeCodeCamp** and my university studies. Even though it's my last year, I can only do 'Vibe Coding,' and I thought it wasn't enough to sell myself to the professional job market. I am re-learning programming and I will show my progress, one commit at a time.
 
 ---
 
@@ -32,4 +32,4 @@ I am currently on a journey to master web development through **freeCodeCamp** a
 - 💼 [LinkedIn](https://linkedin.com/in/indrarms)
 - 📧 indraramdani9113@gmail.com
 
-> "The best time to plant a tree was 20 years ago. The second best time is now." – Let's build something cool!
+> "I will do it later." – Probably me
