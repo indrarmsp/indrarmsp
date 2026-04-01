@@ -21,8 +21,7 @@ I am currently learning web development through **freeCodeCamp** and my universi
 
 ## My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=indrarmsp&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&border_radius=10" alt="Indra's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrarmsp&layout=compact&theme=tokyonight&border_radius=10&hide=makefile,html" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrarmsp&theme=tokyonight" alt="Indra's Streak" />
 </p>
 
 ---
