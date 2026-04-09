@@ -1,7 +1,7 @@
 # Hi there, I'm Indra Ramdani Saputra
 
 ### Informatics Student a Full-Stack Wannabe
-I am currently learning web development through **freeCodeCamp** and my university studies. Even though it's my last year, I can only do 'Vibe Coding,' and I thought it wasn't enough to sell myself to the professional job market. I am re-learning programming and I will show my progress, one commit at a time.
+I am currently learning web development through **freeCodeCamp** and my university studies. Even though it's my last year, I can only do 'Vibe Coding,' and I thought it wasn't enough to sell myself to the professional job market. I am re-learning programming and I will show my progress, one commit at a time. Having the habit.
 
 ---
 
