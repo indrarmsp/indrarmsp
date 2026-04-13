@@ -3,17 +3,15 @@
 ### Informatics Student a Full-Stack Wannabe
 I am currently learning web development through **freeCodeCamp** and my university studies. Even though it's my last year, I can only do 'Vibe Coding,' and I thought it wasn't enough to sell myself to the professional job market. I am re-learning programming and I will show my progress, one commit at a time. Build the Habit.
 
-## My Tech Stack (Currently Learning)
+## What I'm learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark" />
 </p>
 
 ---
 
-## What I'm Working On (2026 Goals)
+## What I'm Working On
 - **Currently:** Completing the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on freeCodeCamp.
-- **Experimenting with:** CSS Grid, Flexbox, and accessible web design.
-- **Next Up:** Diving into JavaScript Algorithms and Data Structures.
 
 ---
 
