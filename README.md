@@ -23,8 +23,8 @@ I am currently learning web development through **freeCodeCamp** and my universi
 ---
 
 ## Connect with Me
-- 🌐 [My freeCodeCamp Profile](https://www.freecodecamp.org/indrarms)
 - 💼 [LinkedIn](https://linkedin.com/in/indrarms)
+- 🌐 [My freeCodeCamp Profile](https://www.freecodecamp.org/indrarms)
 - 📧 indraramdani9113@gmail.com
 
 > "I will do it later." – Probably me
