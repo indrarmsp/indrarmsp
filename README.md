@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Indra Ramdani Saputra
 
-<!--
-**indrarmsp/indrarmsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Informatics Student a Full-Stack Wannabe
+I am currently learning web development through **freeCodeCamp** and my university studies. Even though it's my last year, I can only do 'Vibe Coding,' and I thought it wasn't enough to sell myself to the professional job market. I am re-learning programming and I will show my progress, one commit at a time. Build the Habit.
 
-Here are some ideas to get you started:
+## What I'm learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git&theme=dark" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Working On
+- **Currently:** Completing the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/) on freeCodeCamp.
+
+---
+
+## My GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrarmsp&theme=tokyonight" alt="Indra's Streak" />
+</p>
+
+---
+
+## Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/in/indrarms)
+- 🌐 [My freeCodeCamp Profile](https://www.freecodecamp.org/indrarms)
+- 📧 indraramdani9113@gmail.com
+
+> "I will do it later." – Probably me
